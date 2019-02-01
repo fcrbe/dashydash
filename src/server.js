@@ -40,6 +40,7 @@ function createRoutes() {
 }
 app.use(createRoutes());
 
-const port = 3000;
+//const port = 3000;
+const port = process.env.PORT;
 app.listen(port);
 console.log('listening on port: ' + port);

@@ -25,7 +25,7 @@ class Overlays extends IntervalModule {
   handleClick(e) {
     e.preventDefault();
     const newLocation = window.location.href.substr(0, window.location.href.lastIndexOf('/'));
-    //console.log(newLocation);
+    console.log(newLocation);
     window.location.href = newLocation;
   }
   
