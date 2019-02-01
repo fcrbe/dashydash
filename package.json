@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/z1c0/dashydash.git"
   },
+  "engines": {
+    "node": "8.15.0"
+  },
   "author": "z1c0",
   "license": "MIT",
   "bugs": {

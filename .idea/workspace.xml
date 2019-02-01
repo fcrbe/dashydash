@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d694beec-f509-4e9c-bc76-0acc8fd23dc7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/css/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/scripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scripts/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="d694beec-f509-4e9c-bc76-0acc8fd23dc7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
