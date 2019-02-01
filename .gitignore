@@ -57,7 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
-secrets.json
+//secrets.json
 dist/images/*
 store/*.json
 secrets.py
